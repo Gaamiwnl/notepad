@@ -1,0 +1,1 @@
+Aplicação para organizar tarefas como meu primeiro projeto em flutter.
